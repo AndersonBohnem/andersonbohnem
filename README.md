@@ -45,12 +45,6 @@ Backend application for managing motocross and velocross events, built with Spri
 ### InsertCoin E-commerce
 Academic fullstack project focused on a gaming e-commerce platform using Spring Boot microservices, RabbitMQ and React Native.
 
-## 📊 GitHub Stats
-
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonbohnem&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbohnem&layout=compact&theme=github_dark)
-
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/anderson-bohnemberger/
